@@ -1,0 +1,7 @@
+Nama : sheva
+ Barang : pulpen
+harga : 2000
+jumlah : 3
+total : 6000
+
+

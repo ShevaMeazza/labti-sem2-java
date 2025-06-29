@@ -1,0 +1,7 @@
+Nama : sheva
+NPM : 50424947
+Nilai : 90
+Grade : A
+Keterangan : Selamat Anda Lulus
+
+
