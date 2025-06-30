@@ -1,0 +1,6 @@
+
+ama: abdi
+ barang : sepatu
+ harga:50000
+ jumlah: 2
+ total:100000
